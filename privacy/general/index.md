@@ -4,5 +4,5 @@
 
 Read this Privacy Policy in:
 
-+ [Bahasa Indonesia](/privacy/general/id.md)
-+ [English](/privacy/general/en.md)
++ [Bahasa Indonesia](/privacy/general/id)
++ [English](/privacy/general/en)
