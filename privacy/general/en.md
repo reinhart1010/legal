@@ -8,7 +8,7 @@ Welcome to **Products and Electronic Systems of Reinhart Previano Koentjoro**.
 
 This Privacy Policy regulates all **Products and Electronic Systems**, including but not limited to **reinhart1010.id** as well as services, applications, and other systems which are released as part of official products services offered by **reinhart1010.id**. Please read the following terms carefully, which may affect your legal rights and obligations as a **User** of our **Products and Electronic Systems**.
 
-****Products and Electronic Systems of Reinhart Previano Koentjoro**** is an official Private Sector Electronic System Operator, registered in the Ministry of Communications and Informatics of Republic of Indonesia, under the registration number: [004409.01/DJAI.PSE/07/2022](https://pse.kominfo.go.id/tdpse-detail/5935).
+**Products and Electronic Systems of Reinhart Previano Koentjoro** is an official Private Sector Electronic System Operator, registered in the Ministry of Communications and Informatics of Republic of Indonesia, under the registration number: [004409.01/DJAI.PSE/07/2022](https://pse.kominfo.go.id/tdpse-detail/5935).
 
 ### Legal Age of Children and Adults
 
