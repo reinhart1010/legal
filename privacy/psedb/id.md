@@ -42,7 +42,7 @@ atas **pemilik, pengembang, dan/atau penyelenggara Sistem Elektronik** sebagaima
 
 **Sistem Elektronik PSEDB** secara otomatis menyimpan, menggunakan, memperbanyak, dan membagikan data tersebut kepada para pengguna, terutama untuk tujuan-tujuan yang disarankan kami dalam bagian **B. Pengakuan Hak Cipta atas Sumber Data Penyelenggara Sistem Elektronik**. Kami juga menganggap bahwa masing-masing **Penyelenggara Sistem Elektronik (PSE)** telah menyadari kewajiban beserta konsekuensi hukum yang mengikat berupa pengungkapan **Data Pribadi** kepada publik melalui proses pendaftaran **Penyelenggara Sistem Elektronik (PSE)** yang berlaku di Negara Kesatuan Republik Indonesia.
 
-Sistem pangkalan data **PSEDB** juga dirancang untuk menyimpan riwayat pendaftaran dan perubahan status pendaftaran **Penyelenggara Sistem Elektronik (PSE)**, sehingga **Data Pribadi** pemilik, pengembang, dan/atau penyelenggara Sistem Elektronik tidak 
+Sistem pangkalan data **PSEDB** juga dirancang untuk menyimpan riwayat pendaftaran dan perubahan status pendaftaran **Penyelenggara Sistem Elektronik (PSE)**, sehingga **Data Pribadi** pemilik, pengembang, dan/atau penyelenggara Sistem Elektronik **tidak dapat sepenuhnya dihapus**.
 
 ## D. Data yang Dikumpulkan dari Pengguna Data PSEDB
 
