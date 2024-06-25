@@ -1,6 +1,6 @@
 # Privacy Policy for PSEDB
 
-**Effective July 1st, 2024**
+**Effective July 3st, 2024**
 
 Read this Privacy Policy in:
 
