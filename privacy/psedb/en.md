@@ -52,11 +52,11 @@ If you are under the minimum legal age of adult or incapacitated, you must obtai
 
 However, if you are a parent or legal guardian of a child who wants to use these **Products and/or Services**, you will need to accept these terms on behalf of the child and be responsible on all activities and usage of our **Products and/or Services** through your child's current and/or future user account.
 
-# A. Introduction
+## A. Introduction
 
 **PSEDB** is an unofficial database that holds a list of **Registered Electronic System Operators (PSE/ESO)** in the Republic of Indonesia, as first regulated through the **Law by Ministry of Communication and Informatics of Republic of Indonesia No. 5 Year 2020**, originally titled as the law for *Penyelenggara Sistem Elektronik Lingkup Privat*. We only collect and process data about the **Electronic System Operators (PSE/ESO)** and their operating **Electronic Systems** as registered through the applicable legal process.
 
-# B. Copyright Acknowledgement for Sourced Electronic System Operator Data
+## B. Copyright Acknowledgement of Electronic System Operator Data Source
 
 The data collected and processed on **PSEDB** are directly sourced from the **Government of the Republic of Indonesia** (hereby referred as the **Government**) through the **Ministry of Communication and Informatics of Republic of Indonesia** (*Kementerian Komunikasi dan Informatika Republik Indonesia*). Hence, it possible for the sourced data, at any times, to be protected by **Copyright** on behalf of the Government or an appointed Government entity to manage the administration and policing of Electronic Systems through applicable laws.
 
@@ -69,3 +69,16 @@ We decided to collect and process the copyrightable **Electronic System Operator
 >> b. **keamanan serta penyelenggaraan pemerintahan, legislatif, dan peradilan;**
 
 We establish this database to allow users, including legally-registered Electronic System Operators, to monitor and fulfill their legal obligations to operate as a legally-registered Electronic System Operator (ESO). Due to copyright concerns, we advise Users of this Electronic System to include a **Copyright Acknowledgement** to **General Directorate of Informatics Applications of Ministry of Communication and Informatics of Republic of Indonesia** (Direktorat Jenderal Aplikasi Informatika Kementerian Komunikasi dan Informatika Republik Indonesia) when distributing copies of PSE/ESO data as processed on PSEDB.
+
+## C. Data as Collected from Registered Electronic System Operator Database
+
+We generally collect and process **Registered Private Sector Electronic System Operator (ESO)** from the official national database by the **Ministry of Communication and Informatics of Republic of Indonesua** (`https://pse.kominfo.go.id`), including certain types of data that may be entitled to **Personally Identifiable Information (PII)** including (but not limited to):
+
+* name, and
+* website address,
+
+of the **owner, developer, and/or operator of the Registered Electronic System** by legal process. The Personally Identifiable Information (PII) in regards to the owner, developer, and/or operator may belong to an individual or a legal entity.
+
+The **PSEDB** database system is also designed to store **Historical Data** about the identity and registration status for Electronic System Operators (ESO), making it **difficult to remove such Personally Identifiable Information (PII) once recorded in the database**. The developer of the PSEDB database system have taken great care to limit the amount of Personally Identifiable Information (PII) about the Registered Electronic System Operator as an attempt to protect their privacy.
+
+The **PSEDB Electronic System** automatically collects, stores, uses, copies, and distributes the Registered Electronic System Operator data to all of our users, especially for purposes as recommended on Section **B. Copyright Acknowledgement of Electronic System Operator Data Source**. We also assume that each **Registered Electonic System Operator (ESO)** have understood their legal obligations and consequences of revealing their **Personally Identifiable Information (PII)** to the public when registering themselves according to the legal process applicable in the Republic of Indonesia.

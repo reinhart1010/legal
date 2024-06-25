@@ -80,11 +80,11 @@ Kami mengumpulkan dan memproses data **Penyelenggara Sistem Elektronik (PSE) Lin
 * nama, dan
 * situs web,
 
-atas **pemilik, pengembang, dan/atau penyelenggara Sistem Elektronik** sebagaimana diatur oleh hukum yang berlaku. Data pihak pemilik, pengembang, dan/atau penyelenggara yang dicantumkan dapat menyangkut kepada identitas perseorangan atau badan hukum.
+atas **pemilik, pengembang, dan/atau penyelenggara Sistem Elektronik** sebagaimana terdaftar melalui proses hukum yang berlaku. Data pihak pemilik, pengembang, dan/atau penyelenggara yang dicantumkan dapat menyangkut kepada identitas perseorangan atau badan hukum.
 
-**Sistem Elektronik PSEDB** secara otomatis menyimpan, menggunakan, memperbanyak, dan membagikan data tersebut kepada para pengguna, terutama untuk tujuan-tujuan yang disarankan kami dalam bagian **B. Pengakuan Hak Cipta atas Sumber Data Penyelenggara Sistem Elektronik**. Kami juga menganggap bahwa masing-masing **Penyelenggara Sistem Elektronik (PSE)** telah menyadari kewajiban beserta konsekuensi hukum yang mengikat berupa pengungkapan **Data Pribadi** kepada publik melalui proses pendaftaran **Penyelenggara Sistem Elektronik (PSE)** yang berlaku di Negara Kesatuan Republik Indonesia.
+Sistem pangkalan data **PSEDB** juga dirancang untuk menyimpan riwayat pendaftaran dan perubahan status pendaftaran **Penyelenggara Sistem Elektronik (PSE)**, sehingga **Data Pribadi** pemilik, pengembang, dan/atau penyelenggara Sistem Elektronik yang telah direkam **tidak dapat dihapus**. Pengembang basis data PSEDB dalam hal ini telah berupaya mengurangi jenis Data Pribadi yang akan diungkapkan kepada publik untuk memperketat privasi bagi para Penyelenggara Sistem Elektronik terdaftar.
 
-Sistem pangkalan data **PSEDB** juga dirancang untuk menyimpan riwayat pendaftaran dan perubahan status pendaftaran **Penyelenggara Sistem Elektronik (PSE)**, sehingga **Data Pribadi** pemilik, pengembang, dan/atau penyelenggara Sistem Elektronik **tidak dapat sepenuhnya dihapus**.
+**Sistem Elektronik PSEDB** secara otomatis mengumpulkan, menyimpan, menggunakan, memperbanyak, dan membagikan data tersebut kepada para pengguna, terutama untuk tujuan-tujuan yang disarankan kami dalam bagian **B. Pengakuan Hak Cipta atas Sumber Data Penyelenggara Sistem Elektronik**. Kami juga menganggap bahwa masing-masing **Penyelenggara Sistem Elektronik (PSE)** telah menyadari kewajiban beserta konsekuensi hukum yang mengikat berupa pengungkapan **Data Pribadi** kepada publik melalui proses pendaftaran **Penyelenggara Sistem Elektronik (PSE)** yang berlaku di Negara Kesatuan Republik Indonesia.
 
 ## D. Data yang Dikumpulkan dari Pengguna Data PSEDB
 
