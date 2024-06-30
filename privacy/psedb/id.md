@@ -103,7 +103,7 @@ Kami bekerjasama dengan beberapa pihak ketiga untuk menyimpan dan mengawasi jala
 
 Sebagai konsekuensi, **Layanan Pihak Ketiga** yang bekerja sama dengan **Situs Web PSEDB** dapat sewaktu-waktu mengumpulkan **Data Pribadi** Anda berupa alamat IP, asal negara, asal penyelenggara jasa internet (ISP), jenis perangkat, dan/atau jenis data lainnya, meskipun kami **tidak berniat** untuk mengumpulkan dan memprosesnya bagi keuntungan pribadi.
 
-Sebagai **Pengguna**, Anda disarankan membaca masing-masing Kebijakan Privasi dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum. Perlu diketahui bahwa tidak seluruh Layanan Pihak Ketiga yang disebutkan memiliki terjemahan Kebijakan Privasi berbahasa Indonesia, atau mengesahkan Bahasa Indonesia secara hukum sebagai acuan untuk menulis terjemahan bahasa pada Kebijakan Privasi mereka.
+Sebagai **Pengguna**, Anda disarankan membaca masing-masing Kebijakan Privasi dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum. Perlu diketahui bahwa tidak seluruh Layanan Pihak Ketiga yang disebutkan memiliki terjemahan Kebijakan Privasi berbahasa Indonesia, atau menggunakan Bahasa Indonesia sebagai bahasa hukum acuan untuk menerapkan Kebijakan Privasi mereka.
 
 ### Melalui Aplikasi Perangkat Komputer Desktop dan Mobile PSEDB
 
@@ -118,7 +118,7 @@ Secara bawaan, **Sistem Elektronik PSEDB tidak berniat** untuk memungut **Data P
 
 Jika Anda memutuskan untuk menggunakan **Aplikasi PSEDB** untuk mengakses pangkalan data dari sumber selain **Layanan PSEDB** resmi, aplikasi ini secara bawaan juga akan mengumpulkan dan mengirimkan **Informasi Kuki (*Cookies*)** untuk mendukung proses autentikasi dan pengamanan **Layanan PSEDB Pihak Ketiga** tersebut, bila ada.
 
-Dengan menggunakan **Layanan Pangkalan Data PSEDB Pihak Ketiga**, kami menganggap bahwa Anda telah menyetujui Syarat dan Ketentuan (bila ada), Kebijakan Privasi, dan Kebijakan Kuki (bila ada) yang diterapkan oleh **Layanan Pangkalan Data PSEDB Pihak Ketiga** tersebut. Kami tidak bertanggung jawab atas kerugian material dan pelanggaran aturan perlindungan data yang ditimbulkan dari penggunaan **Layanan Pangkalan Data PSEDB Pihak Ketiga** melalui **Aplikasi PSEDB** yang dikembangkan oleh pihak pengembang **Layanan Pangkalan Data PSEDB** yang resmi.
+Dengan menggunakan **Layanan Pangkalan Data PSEDB Pihak Ketiga**, kami menganggap bahwa Anda telah menyetujui Syarat dan Ketentuan (bila berlaku), Kebijakan Privasi, dan Kebijakan Kuki (bila berlaku) yang diterapkan oleh **Layanan Pangkalan Data PSEDB Pihak Ketiga** tersebut. Kami tidak bertanggung jawab atas kerugian material dan pelanggaran aturan perlindungan data yang ditimbulkan atas penggunaan **Layanan Pangkalan Data PSEDB Pihak Ketiga** melalui **Aplikasi PSEDB** yang dikembangkan oleh pihak pengembang **Layanan Pangkalan Data PSEDB** yang resmi.
 
 #### Penggunaan Fitur Pengumpulan Data Diagnostik dan Pelaporan Masalah melalui Layanan Pihak Ketiga
 
@@ -127,12 +127,15 @@ Jika Anda merupakan **Pengguna** yang secara sukarela, atau melalui konfigurasi 
 | Layanan Pihak Ketiga | Kebijakan Privasi | Tujuan Utama |
 |---|---|---|
 | App Store, iPadOS, iOS, macOS | [**Kebijakan Privasi Apple** (Bahasa Indonesia)](https://www.apple.com/legal/privacy/id/) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang dalam perangkat iPad, iPhone, dan Mac. |
+| Fedora | <ul><li>[**Privacy Statement for the Fedora Project** (Bahasa Inggris)](https://docs.fedoraproject.org/en-US/legal/privacy/)</li><li>[**Red Hat Privacy Statement** (Bahasa Inggris)](https://www.redhat.com/en/about/privacy-policy)</li></ul> | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang dalam perangkat Linux berbasis Fedora. |
+| Canonical Ubuntu, Canonical Launchpad | [**Data Privacy** (Bahasa Inggris)](https://ubuntu.com/legal/data-privacy) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang dalam perangkat Linux berbasis Ubuntu. |
 | Firebase | [**Privasi dan Keamanan di Firebase** (Bahasa Indonesia)](https://firebase.google.com/support/privacy/?hl=id) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang melalui layanan uji coba aplikasi Firebase App Tester. |
 | HUAWEI Mobile Services | [**Pernyataan Privasi Bisnis Konsumen Huawei** (Bahasa Indonesia)](https://consumer.huawei.com/id/privacy/) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang melalui toko aplikasi HUAWEI AppGallery. |
 | Layanan Google Play (*Google Play Services*) | [**Kebijakan Privasi Google** (Bahasa Indonesia)](https://policies.google.com/privacy?hl=id) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang melalui toko aplikasi Google Play. |
+| Red Hat | [**Red Hat Privacy Statement** (Bahasa Inggris)](https://www.redhat.com/en/about/privacy-policy) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang dalam perangkat Linux berbasis Red Hat. |
 | TestFlight (Apple) | [**TestFlight & Privasi** (Bahasa Indonesia)](https://www.apple.com/legal/privacy/data/id/test-flight/) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang melalui layanan uji coba aplikasi TestFlight. |
 
-Sebagai **Pengguna**, Anda disarankan membaca masing-masing Kebijakan Privasi dari Layanan Pihak Ketiga dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum. Perlu diketahui bahwa tidak seluruh Layanan Pihak Ketiga yang disebutkan memiliki terjemahan Kebijakan Privasi berbahasa Indonesia, atau mengesahkan Bahasa Indonesia secara hukum sebagai acuan untuk menulis terjemahan bahasa pada Kebijakan Privasi mereka.
+Sebagai **Pengguna**, Anda disarankan membaca masing-masing Kebijakan Privasi dari Layanan Pihak Ketiga dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum. Perlu diketahui bahwa tidak seluruh Layanan Pihak Ketiga yang disebutkan memiliki terjemahan Kebijakan Privasi berbahasa Indonesia, atau menggunakan Bahasa Indonesia sebagai bahasa hukum acuan untuk menerapkan Kebijakan Privasi mereka.
 
 Jika kami menerima informasi diagnostik dan/atau laporan masalah dari Anda melalui Layanan Pihak Ketiga, maka kami akan memprosesnya menurut [**Kebijakan Privasi Umum bagi Produk dan Layanan Elektronik milik Reinhart Previano Koentjoro**](https://legal.reinhart1010.id/privacy/general/id).
 
