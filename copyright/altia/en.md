@@ -8,7 +8,7 @@ Copyright (c) 2020-2021 Carsten Csiky
 
 Copyright (c) 2024 Reinhart Previano Koentjoro
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, at ther version 3 of the License ([LGPL-3-Only](/licenses/lgpl-3.0/)).
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, at ther version 3 of the License ([LGPL-3-Only](/licenses/lgpl-3.0/en)).
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
