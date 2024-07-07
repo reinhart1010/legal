@@ -8,7 +8,6 @@ Selamat datang di **PSEDB**, pangkalan tidak resmi untuk data **Penyelenggara Si
 
 **PSEDB** merupakan Penyelenggara Sistem Elektronik Lingkup Privat yang terdaftar di Kementerian Komunikasi dan Informatika Republik Indonesia, dengan tanda daftar: [004409.08/DJAI.PSE/08/2023](https://pse.kominfo.go.id/tdpse-detail/15516).
 
-
 ### Penentuan Usia Anak dan Dewasa Menurut Hukum
 
 **Kebijakan Privasi ini merupakan kebijakan hukum yang berlaku dan mengikat** baik bagi anak-anak maupun orang dewasa. Kebijakan Privasi ini ditulis bagi anak-anak dan dewasa secara sekaligus untuk mematuhi hukum yang berlaku di beberapa negara yang mengatur perlindungan data pribadi baik secara umum maupun khusus bagi anak-anak.
@@ -107,11 +106,11 @@ Sebagai **Pengguna**, Anda disarankan membaca masing-masing Kebijakan Privasi de
 
 ### Melalui Aplikasi Perangkat Komputer Desktop dan Mobile PSEDB
 
-Secara bawaan, **Sistem Elektronik PSEDB tidak berniat** untuk memungut **Data Pribadi** milik pengguna perangkat dalam bentuk apapun. Namun, **Data Pribadi** Anda masih dapat dikumpulkan oleh **Layanan Pihak Ketiga** untuk kepentingan:
+Secara bawaan, **Sistem Elektronik PSEDB** **tidak berniat** untuk memungut **Data Pribadi** milik pengguna perangkat dalam bentuk apapun. Namun, **Data Pribadi** Anda masih dapat dikumpulkan oleh **Layanan Pihak Ketiga** untuk kepentingan:
 
 + Pengaksesan dan pengawasan jalannya **Situs Web Layanan PSEDB** sebagaimana dijelaskan pada bagian sebelumnya. Hal ini hanya berlaku jika Anda memutuskan untuk menggunakan `https://psedb.reinhart1010.id` sebagai sumber pangkalan data yang dipakai dalam **Aplikasi PSEDB**.
 + **Pengunduhan font tambahan** yang dipakai untuk mendukung tampilan antarmuka (*user interface*) **Aplikasi PSEDB** bagi beberapa jenis perangkat. Font yang dimaksud diunduh dari layanan **Google Fonts API** dengan informasi Kebijakan Privasi yang berlokasi di <https://developers.google.com/fonts/faq/privacy?hl=id> (Bahasa Indonesia).
-+ Penggunaan fitur-fitur yang ditawarkan pihak ketiga untuk mengubah pengalaman penggunaan **Aplikasi PSEDB** secara tidak resmi. Fitur-fitur yang dimaksud berupa layanan bantuan aksesibilitas perangkat komputer, pengunci aplikasi (*app lock*), dan aplikasi aksesoris atau utilitas lainnya.
++ Penggunaan fitur-fitur yang ditawarkan pihak ketiga untuk mengubah pengalaman penggunaan **Aplikasi PSEDB** secara tidak resmi. Fitur-fitur yang dimaksud berupa layanan bantuan aksesibilitas perangkat komputer, pengunci aplikasi (*app lock*), pengawasan orang tua (*parental control*), dan aplikasi aksesoris atau utilitas lainnya.
 + **Pengumpulan Data Diagnostik**, yang dapat sewaktu-waktu dikirimkan kepada kami sebagai pihak pengembang aplikasi jika **Aplikasi PSEDB** mengalami kendala serius. Informasi ini hanya dikirimkan atas jika Anda menghendaki dan menyetujuinya melalui pihak ketiga, seperti layanan tetokoan aplikasi (*app store*).
 
 #### Penggunaan Layanan Pangkalan Data PSEDB Pihak Ketiga
