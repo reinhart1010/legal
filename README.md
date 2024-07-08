@@ -9,4 +9,4 @@ This repository contains the trackable legal documentation for [reinhart1010.id]
 
 ## General
 
-+ [Privacy Policy](/privacy/general)
++ [Privacy Policy](/privacy)

@@ -8,6 +8,12 @@ Selamat datang di **PSEDB**, pangkalan tidak resmi untuk data **Penyelenggara Si
 
 **PSEDB** merupakan Penyelenggara Sistem Elektronik Lingkup Privat yang terdaftar di Kementerian Komunikasi dan Informatika Republik Indonesia, dengan tanda daftar: [004409.08/DJAI.PSE/08/2023](https://pse.kominfo.go.id/tdpse-detail/15516).
 
+### Kompatibilitas dengan Kebijakan Privasi Umum
+
+Dokumen Kebijakan Privasi ini telah dibuat untuk menggantikan klausul penanganan Data Pribadi dalam [Kebijakan Privasi Umum](https://legal.reinhart1010.id/privacy/general/id), terutama dalam hal Sistem Elektronik PSEDB, mengingat bahwa PSEDB tidak memungut Data Pribadi tambahan seperti alamat surel/*email*, nomor telepon, informasi rekening bank, dan Data Pribadi lainnya milik Pengguna.
+
+Namun, jika kami menerima informasi mengenai seorang Pengguna dan umpan balik Pengguna dalam menggunakan PSEDB, maka kami menganggap bahwa Pengguna telah menyetujui kebijakan milik jasa komunikasi atau pelaporan oleh pihak ketika (jika berlaku), dan ketentuan pemrosesan Data Pribadi dalam hal komunikasi dalam [Kebijakan Privasi Umum](https://legal.reinhart1010.id/privacy/general/id) kami.
+
 ### Penentuan Usia Anak dan Dewasa Menurut Hukum
 
 **Kebijakan Privasi ini merupakan kebijakan hukum yang berlaku dan mengikat** baik bagi anak-anak maupun orang dewasa. Kebijakan Privasi ini ditulis bagi anak-anak dan dewasa secara sekaligus untuk mematuhi hukum yang berlaku di beberapa negara yang mengatur perlindungan data pribadi baik secara umum maupun khusus bagi anak-anak.
@@ -126,7 +132,7 @@ Jika Anda merupakan **Pengguna** yang secara sukarela, atau melalui konfigurasi 
 | Layanan Pihak Ketiga | Kebijakan Privasi | Tujuan Utama |
 |---|---|---|
 | App Store, iPadOS, iOS, macOS | [**Kebijakan Privasi Apple** (Bahasa Indonesia)](https://www.apple.com/legal/privacy/id/) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang dalam perangkat iPad, iPhone, dan Mac. |
-| Fedora | <ul><li>[**Privacy Statement for the Fedora Project** (Bahasa Inggris)](https://docs.fedoraproject.org/en-US/legal/privacy/)</li><li>[**Red Hat Privacy Statement** (Bahasa Inggris)](https://www.redhat.com/en/about/privacy-policy)</li></ul> | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang dalam perangkat Linux berbasis Fedora. |
+| Fedora | [**Privacy Statement for the Fedora Project** (Bahasa Inggris)](https://docs.fedoraproject.org/en-US/legal/privacy/) dan [**Red Hat Privacy Statement** (Bahasa Inggris)](https://www.redhat.com/en/about/privacy-policy) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang dalam perangkat Linux berbasis Fedora. |
 | Canonical Ubuntu, Canonical Launchpad | [**Data Privacy** (Bahasa Inggris)](https://ubuntu.com/legal/data-privacy) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang dalam perangkat Linux berbasis Ubuntu. |
 | Firebase | [**Privasi dan Keamanan di Firebase** (Bahasa Indonesia)](https://firebase.google.com/support/privacy/?hl=id) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang melalui layanan uji coba aplikasi Firebase App Tester. |
 | HUAWEI Mobile Services | [**Pernyataan Privasi Bisnis Konsumen Huawei** (Bahasa Indonesia)](https://consumer.huawei.com/id/privacy/) | Pengumpulan dan pengiriman data diagnostik bagi peristiwa galat dalam **Aplikasi PSEDB** yang dipasang melalui toko aplikasi HUAWEI AppGallery. |

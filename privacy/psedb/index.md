@@ -1,4 +1,4 @@
-# Privacy Policy for PSEDB
+# Special Privacy Policy for PSEDB Service
 
 **Effective July 3st, 2024**
 

@@ -8,6 +8,12 @@ Welcome to **PSEDB**, the unofficial database for Republic of Indonesia's **Regi
 
 **PSEDB** is an official Private Sector Electronic System Operator, registered in the Ministry of Communications and Informatics of Republic of Indonesia, under the registration number: [004409.08/DJAI.PSE/08/2023](https://pse.kominfo.go.id/tdpse-detail/15516).
 
+### Compatibility with the General Privacy Policy
+
+This Privacy Policy is provisioned to replace the unnecessary terms found in our [General Privacy Policy](https://legal.reinhart1010.id/privacy/general/en) to be applied on PSEDB. Unlike other electronic systems and services as provided by us, PSEDB does not collect any additional Personally Identifiable Information such as the User's email address, phone number, bank account details, and others.
+
+However, when we receive any contact and feedback information on behalf of the User, we will assume that the User have agreed to additional policies as imposed by third-party communication or reporting services (if applicable), as well as the Data Processing terms of our [General Privacy Policy](https://legal.reinhart1010.id/privacy/general/en) for communication purposes.
+
 ### Legal Age of Children and Adults
 
 **This Privacy Policy applies and binds to how we interact to childrens and adults.** To comply with specific data protection laws for children and adults in some countries, this Privacy Policy is written for both children and adults.
