@@ -3,7 +3,9 @@
 :root {
   --font-family-sans: Bumi Laras Selatan,Segoe UI Variable Text,-apple-system,BlinkMacSystemFont,Inter,Segoe UI,Cantarell,Open Sans,Noto Sans,Piboto,HarmonyOS Sans,One UI Sans APP VF,Ubuntu,Roboto Flex,Roboto,Helvetica Neue,FreeSans,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,SamsungColorEmoji,Noto Color Emoji Flags,Noto Color Emoji,Segoe UI Symbol,Noto Emoji,Symbola !important;
   --bs-font-sans-serif: Bumi Laras Selatan,Segoe UI Variable Text,-apple-system,BlinkMacSystemFont,Inter,Segoe UI,Cantarell,Open Sans,Noto Sans,Piboto,HarmonyOS Sans,One UI Sans APP VF,Ubuntu,Roboto Flex,Roboto,Helvetica Neue,FreeSans,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,SamsungColorEmoji,Noto Color Emoji Flags,Noto Color Emoji,Segoe UI Symbol,Noto Emoji,Symbola !important;
+}
 
+.accordion {
   --bs-accordion-border-radius: 1rem;
 }
 
