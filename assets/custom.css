@@ -3,11 +3,12 @@
 :root {
   --font-family-sans: Bumi Laras Selatan,Segoe UI Variable Text,-apple-system,BlinkMacSystemFont,Inter,Segoe UI,Cantarell,Open Sans,Noto Sans,Piboto,HarmonyOS Sans,One UI Sans APP VF,Ubuntu,Roboto Flex,Roboto,Helvetica Neue,FreeSans,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,SamsungColorEmoji,Noto Color Emoji Flags,Noto Color Emoji,Segoe UI Symbol,Noto Emoji,Symbola !important;
   --bs-font-sans-serif: Bumi Laras Selatan,Segoe UI Variable Text,-apple-system,BlinkMacSystemFont,Inter,Segoe UI,Cantarell,Open Sans,Noto Sans,Piboto,HarmonyOS Sans,One UI Sans APP VF,Ubuntu,Roboto Flex,Roboto,Helvetica Neue,FreeSans,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,SamsungColorEmoji,Noto Color Emoji Flags,Noto Color Emoji,Segoe UI Symbol,Noto Emoji,Symbola !important;
+
+  --bs-accordion-border-radius: 1rem;
 }
 
 .accordion-button {
-  background-color: var(--bs-primary-bg-subtle);
-  font-weight: 600;
+  font-weight: 700;
 }
 
 /* Base Color Palettes */
@@ -743,6 +744,8 @@
   --bs-primary-dash-svg: var(--bs-violet-dash-svg);
   --bs-primary-radio-svg: var(--bs-violet-radio-svg);
   --bs-primary-switch-svg: var(--bs-violet-switch-svg);
+
+  --bs-accordion-border-color: var(--bs-primary);
 }
 [data-bs-theme=dark] {
   --bs-primary-text-emphasis-hsl: var(--bs-violet-text-emphasis-hsl);
@@ -793,4 +796,8 @@
   --bs-info-text-emphasis: var(--bs-violet-text-emphasis);
   --bs-info-bg-subtle: var(--bs-violet-bg-subtle);
   --bs-info-border-subtle: var(--bs-violet-border-subtle);
+}
+
+.accordion-item {
+  border: 2px inset var(--bs-primary);
 }
