@@ -10,7 +10,7 @@ The use of Electronic Signatures (*Tanda Tangan Elektronik* / TTE) is acknowledg
 2. [Peraturan Pemerintah (PP) Nomor 71 Tahun 2019](https://peraturan.go.id/id/pp-no-71-tahun-2019) which acknowledges the role of Electronic Certification Providers (*Penyelenggara Sertifikasi Elektronik* / PSrE) in administering the digital document and data certification process; as well as
 3. [Peraturan Menteri Komunikasi dan Informatika Nomor 11 Tahun 2022](https://peraturan.go.id/id/permenkominfo-no-11-tahun-2022) which further regulates the certifications of Electronic Certification Providers (*Penyelenggara Sertifikasi Elektronik* / PSrE) under the Ministry of Communication and Informatics (now Ministry of Communication and Digital Affairs).
 
-The [Indonesian version of this document](/tanda-tangan-elektronik/) provide a thorough legal review of electronic signatures for use in Indonesian law processing, including the use of Electronic Duty Stamps (*Meterai Elektronik* / *e-Meterai*) to substitute the paper-based Duty Stamps in order to legally process certain types of documents, such as legal contracts.
+The [Indonesian version of this document](/tanda-tangan-elektronik/) provides a thorough legal review of electronic signatures for use in Indonesian legal processing, including Electronic Duty Stamps (*Meterai Elektronik* / *e-Meterai*) to substitute the paper-based Duty Stamps in order to legally process certain types of documents, such as legal contracts.
 
 ## Legality of Reinhart Previano Koentjoro's Preferred Electronic Signature Mechanisms
 
