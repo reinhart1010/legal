@@ -1,4 +1,6 @@
-# Tanda Tangan Elektronik
+# Panduan Verifikasi Tanda Tangan Elektronik
+
+**Terakhir Dimutakhirkan:** 12 Desember 2024
 
 Tanda Tangan Elektronik (TTE) merupakan salah satu metode untuk memverifikasi keaslian data elektronik menggunakan metode *hashing*, enkripsi, dan dekripsi untuk memastikan isi berkas atau objek secara digital telah sesuai dengan kunci verifikasi objek digital dan hasil verifikasi yang diharapkan.
 
@@ -43,10 +45,10 @@ Perlu diketahui bahwa tidak semua Tanda Tangan Elektronik yang digunakan secara 
 | Jenis/Metode | Memiliki Kekuatan Hukum | Keterangan |
 |---|:-:|---|
 | [Android App Signing](https://developer.android.com/studio/publish/app-signing) dan [Google Play App Signing](https://support.google.com/googleplay/android-developer/answer/9842756?hl=id) | ❌ TIDAK | Penandatanganan berkas Android berasal dari metode Java Keystore yang tidak memiliki lembaga penengah. Selain itu, [Google Play App Signing](https://support.google.com/googleplay/android-developer/answer/9842756?hl=id) tidak memiliki kekuatan hukum karena Google tidak merupakan PSrE yang terdaftar secara resmi oleh Kementerian Komunikasi dan Digital (Desember 2024). |
-| Java Keystore | ❌ TIDAK | Digunakan dalam penandatanganan berkas aplikasi Android ([Android App Signing](https://developer.android.com/studio/publish/app-signing)). Metode penandatanganan ini tidak menunjuk lembaga penengah apapun untuk menerbitkan dan mengatur pasangan kunci publik dan privat untuk melakukan proses penandatanganan berkas, sehingga tidak layak untuk menerima perlindungan hukum atas Penyelenggara Sertifikasi Elektronik. |
+| Java Keystore | ❌ TIDAK | Digunakan dalam penandatanganan berkas aplikasi Android ([Android App Signing](https://developer.android.com/studio/publish/app-signing)). Metode penandatanganan ini tidak menunjuk lembaga penengah apapun untuk menerbitkan dan mengatur pasangan kunci publik dan privat untuk melakukan proses penandatanganan berkas, sehingga tidak layak untuk memenuhi persyaratan pendaftaran Penyelenggara Sertifikasi Elektronik. |
 | Meterai Elektronik (e-Meterai) | ✅ BERKEKUATAN | Ketentuan Meterai Elektronik diatur dalam [Undang-Undang Nomor 10 Tahun 2020](https://peraturan.go.id/id/uu-no-10-tahun-2020), [Peraturan Pemerintah Nomor 86 Tahun 2021](https://peraturan.go.id/id/pp-no-86-tahun-2021), dan [Peraturan Menteri Keuangan Nomor 134 Tahun 2021](https://peraturan.go.id/id/permenkeu-no-134-pmk-03-2021-tahun-2021). Kami menerima penggunaan Meterai Elektronik sebagaimana mestinya, dan secara teknis, pembubuhan Meterai Elektronik dalam berkas PDF mengikuti standar Tanda Tangan Elektronik PDF sebagaimana umumnya ditawarkan oleh PSrE terdaftar di Indonesia. |
-| PDF | ✅ SEBAGIAN | Hanya tanda tangan yang disahkan melalui platform [PSrE yang terdaftar](https://tte.kominfo.go.id/listpsrenew) saja yang memiliki kekuatan hukum Republik Indonesia. Apabila kami menerima dokumen PDF yang ditandatangani oleh platform lainnya, maka keabsahan akan ditentukan berdasarkan status registrasi PSrE serupa dalam negara asal pembubuh Tanda Tangan Elektronik. **Sebagian besar dokumen PDF dengan TTE PSrE hanya memiliki masa berlaku hingga 1 (satu) tahun kalender, menurut deskripsi teknis yang terdapat pada masing-masing TTE.** |
-| OpenPGP | ❌ TIDAK | Metode penandatanganan ini tidak menunjuk lembaga penengah apapun untuk menerbitkan dan mengatur pasangan kunci publik dan privat untuk melakukan proses penandatanganan berkas, sehingga tidak layak untuk menerima perlindungan hukum atas Penyelenggara Sertifikasi Elektronik. |
+| PDF | ✅ SEBAGIAN | Hanya tanda tangan yang disahkan melalui platform [PSrE yang terdaftar](https://tte.kominfo.go.id/listpsrenew) saja yang memiliki kekuatan hukum Republik Indonesia. Apabila kami menerima dokumen PDF yang ditandatangani oleh platform lainnya, maka keabsahan akan ditentukan berdasarkan status registrasi PSrE serupa dalam jurisdiksi asal pembubuh Tanda Tangan Elektronik. |
+| OpenPGP | ❌ TIDAK | Metode penandatanganan ini tidak menunjuk lembaga penengah apapun untuk menerbitkan dan mengatur pasangan kunci publik dan privat untuk melakukan proses penandatanganan berkas, sehingga tidak layak untuk memenuhi persyaratan pendaftaran Penyelenggara Sertifikasi Elektronik. |
 
 ## Jenis Tanda Tangan Elektronik yang Digunakan per Objek
 
@@ -55,24 +57,24 @@ Berikut adalah rangkuman jenis Tanda Tangan Elektronik yang dikelola secara resm
 | Jenis Objek | Jenis Tanda Tangan Elektronik | Catatan |
 |---|---|---|
 | Aplikasi Android (APK, AAB) | [Android App Signing](https://developer.android.com/studio/publish/app-signing) | Berlaku sejak Juni 2024. Kunci privat Java Keystore (`.jks`) dikelola secara mandiri; tidak menggunakan [Google Play App Signing](https://support.google.com/googleplay/android-developer/answer/9842756?hl=id). |
-| Komit Git | [OpenPGP](https://pgp.reinhart1010.id) | Berlaku sejak 2022 dengan pergantian kunci privat sebanyak 2 (dua) kali karena alasan serangan keamanan. Kunci publik yang saat ini berlaku adalah [`EB75 3357`](https://pgp.reinhart1010.id) ([.asc](https://reinhart1010.id/key.asc)). |
-| PDF | [TTE Tersertifikasi (PDF)](#cara-memvalidasi-tanda-tangan-pdf) | Berlaku sejak September 2024, dengan menunjuk Perum Percetakan Republik Indonesia (PERURI) melalui [PERURI Certificate Authority](https://ca.peruri.co.id/) sebagai pengelola Tanda Tangan Elektronik Tersertifikasi berbasis PDF. |
+| Komit Git | [OpenPGP](https://pgp.reinhart1010.id) | Berlaku sejak 2022 dengan pergantian kunci privat sebanyak 2 (dua) kali karena alasan kehilangan. Kunci publik yang saat ini berlaku adalah [`EB75 3357`](https://pgp.reinhart1010.id) ([.asc](https://reinhart1010.id/key.asc)). |
+| PDF | [TTE Tersertifikasi (PDF)](#cara-memverifikasi-tanda-tangan-pdf) | Berlaku sejak September 2024, dengan menunjuk Perum Percetakan Republik Indonesia (PERURI) melalui [PERURI Certificate Authority](https://ca.peruri.co.id/) sebagai pengelola Tanda Tangan Elektronik Tersertifikasi berbasis PDF. |
 
-## Cara Memvalidasi Meterai Elektronik
+## Cara Memverifikasi Meterai Elektronik
 
-Secara teknis, Meterai Elektronik menggunakan metode penandatangan yang sama dengan [Tanda Tangan Elektronik PDF](#cara-memvalidasi-tanda-tangan-pdf). Jika Anda menerima dokumen dengan gambar Meterai Elektronik ini, pastikan metadata berkas PDF tersebut juga memuat Tanda Tangan Elektronik PDF dengan nama lembaga penandatanganan `Meterai Elektronik 10000`.
+Secara teknis, Meterai Elektronik menggunakan metode penandatangan yang sama dengan [Tanda Tangan Elektronik PDF](#cara-memverifikasi-tanda-tangan-pdf). Jika Anda menerima dokumen dengan gambar Meterai Elektronik ini, pastikan metadata berkas PDF tersebut juga memuat Tanda Tangan Elektronik PDF dengan nama lembaga penandatanganan `Meterai Elektronik 10000`.
 
 ![Tanda Tangan Elektronik pada Adobe Acrobat Reader](/assets/images/TTE%20Adobe%20Acrobat.png)
 
 Keaslian Meterai Elektronik juga perlu dibuktikan melalui aplikasi **E-meterai Scanner** yang tersedia secara resmi oleh PERURI di [App Store](https://apps.apple.com/id/app/e-meterai-scanner/id6449962977) dan [Google Play Store](https://play.google.com/store/apps/details?id=com.peruri.emeteraiscanner&hl=id). Informasi tentang alamat surel (*email*) pembubuh meterai hanya dapat dilihat melalui aplikasi ini.
 
-## Cara Memvalidasi Tanda Tangan OpenPGP
+## Cara Memverifikasi Tanda Tangan OpenPGP
 
 Informasi selengkapnya dapat dilihat pada <https://pgp.reinhart1010.id/id/how-to-use>.
 
 Kami merekomendasikan pengguna perangkat BSD, Linux, macOS, Unix, dan Windows untuk menggunakan piranti lunak OpenPGP berbasis **GnuPG (GPG)** agar dapat menggunakan perintah-perintah `gpg` sebagaimana tercantum dalam tutorial kami.
 
-## Cara Memvalidasi Tanda Tangan PDF
+## Cara Memverifikasi Tanda Tangan PDF
 
 Tanda Tangan PDF dapat divalidasi dengan menggunakan aplikasi pembaca dokumen PDF (PDF Reader) yang juga mampu membaca metadata Tanda Tangan Digital, di antaranya:
 
@@ -87,6 +89,14 @@ Tanda Tangan PDF dapat divalidasi dengan menggunakan aplikasi pembaca dokumen PD
 > Jika Anda diberitahu bahwa Tanda Tangan Elektronik tersebut tidak valid karena Anda belum mempercayai keabsahan sertifikat inti, pastikan bahwa Anda memasukkan sertifikat inti [PERURI Certificate Authority](https://ca.peruri.co.id/) beserta [PSrE Terdaftar lainnya](https://rootca.id/) ke dalam daftar sertifikat yang dipercayai oleh aplikasi pembuka berkas PDF Anda.
 
 Anda juga dapat mengetahui apakah berkas tersebut juga memiliki Tanda Tangan Elektronik (TTE) yang berasal dari Penyelenggara Sertifikasi Elektronik (PSrE) terdaftar dengan mengunggah berkas tersebut ke dalam situs <https://tte.kominfo.go.id/verifyPDF> maupun <https://verification.peruri.co.id/>.
+
+![Perbandingan hasil tampilan verifikasi Tanda Tangan Elektronik PDF melalui situs PSrE Kominfo/Komdigi](/assets/images/Verifikasi%20TTE%20Kominfo%20-%20Tidak%20Valid.png)
+
+> [!WARNING]
+> 
+> Hati-hati atas dokumen yang dinyatakan **tidak** memiliki Tanda Tangan Digital Tersertifikasi meskipun memiliki gambar Tanda Tangan Elektronik dan Meterai Elektronik sebagaimana dimaksud (seperti pada gambar sebelah kiri). Hal ini dapat menandakan adanya perubahan atau pemrosesan ulang atas sebagian atau keseluruhan isi dokumen yang tertandatangan, sehingga secara otomatis merusak segel Tanda Tangan Elektronik.
+
+![Tampilan detail hasil verifikasi Tanda Tangan Elektronik PDF melalui situs PSrE Kominfo/Komdigi](/assets/images/Verifikasi%20TTE%20Kominfo%20-%20Valid.png)
 
 ## Media Sosialisasi dan Pemberitahuan Tanda Tangan Elektronik
 
