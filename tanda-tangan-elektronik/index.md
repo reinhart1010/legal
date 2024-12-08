@@ -58,7 +58,7 @@ Berikut adalah rangkuman jenis Tanda Tangan Elektronik yang dikelola secara resm
 |---|---|---|
 | Aplikasi Android (APK, AAB) | [Android App Signing](https://developer.android.com/studio/publish/app-signing) | Berlaku sejak Juni 2024. Kunci privat Java Keystore (`.jks`) dikelola secara mandiri; tidak menggunakan [Google Play App Signing](https://support.google.com/googleplay/android-developer/answer/9842756?hl=id). |
 | Komit Git | [OpenPGP](https://pgp.reinhart1010.id) | Berlaku sejak 2022 dengan pergantian kunci privat sebanyak 2 (dua) kali karena alasan kehilangan. Kunci publik yang saat ini berlaku adalah [`EB75 3357`](https://pgp.reinhart1010.id) ([.asc](https://reinhart1010.id/key.asc)). |
-| PDF | [TTE Tersertifikasi (PDF)](#cara-memverifikasi-tanda-tangan-pdf) | Berlaku sejak September 2024, dengan menunjuk Perum Percetakan Republik Indonesia (PERURI) melalui [PERURI Certificate Authority](https://ca.peruri.co.id/) sebagai pengelola Tanda Tangan Elektronik Tersertifikasi berbasis PDF. |
+| PDF | [TTE Tersertifikasi (PDF)](#cara-memverifikasi-tanda-tangan-pdf) | Berlaku sejak September 2024, dengan menunjuk Perum Percetakan Republik Indonesia (PERURI) melalui [PERURI Certificate Authority](https://ca.peruri.co.id/) sebagai pengelola Tanda Tangan Elektronik Tersertifikasi berbasis PDF. Perum Percetakan Uang Republik Indonesia (PERURI) adalah Penyelenggara Sertifikasi Elektronik (PSrE) yang terdaftar dalam Kementerian Komunikasi dan Digital Republik Indonesia. |
 
 ## Cara Memverifikasi Meterai Elektronik
 

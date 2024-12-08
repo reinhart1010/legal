@@ -30,7 +30,7 @@ The following table lists of types and methods of Electronic Signature that are 
 
 | Type of Signable Object | Type(s) of Applicable Electronic Signature | Note |
 |---|---|---|
-| Android application (APK, AAB) | [Android App Signing](https://developer.android.com/studio/publish/app-signing) | Used since Juni 2024. Kunci privat Java Keystore (`.jks`) dikelola secara mandiri; tidak menggunakan [Google Play App Signing](https://support.google.com/googleplay/android-developer/answer/9842756?hl=id). |
+| Android application (APK, AAB) | [Android App Signing](https://developer.android.com/studio/publish/app-signing) | Used since June 2024. The Java Keystore (`.jks`) files are self-provided and managed; without the use of [Google Play App Signing](https://support.google.com/googleplay/android-developer/answer/9842756?hl=id). |
 | Git commits | [OpenPGP](https://pgp.reinhart1010.id) | Used since 2022 with 2 (two) root key changes for being lost and stolen. The current valid OpenPGP public key is [`EB75 3357`](https://pgp.reinhart1010.id) ([.asc](https://reinhart1010.id/key.asc)). |
 | PDF | [Certified PDF Electronic Signatures](#how-to-verify-the-pdf-electronic-signature-e-sign) | Used since September 2024, through the use of [PERURI Certificate Authority](https://ca.peruri.co.id/) to manage digital signatures for PDF documents. Perum Percetakan Uang Republik Indonesia (PERURI) is a Registered Electronic Certification Provider (PSrE) in the Ministry of Communication and Digital Affairs of Republic Indonesia. |
 
